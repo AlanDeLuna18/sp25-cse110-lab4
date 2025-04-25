@@ -1,0 +1,2 @@
+1) The bug is that the calculateSum function is taking in num1 and num2 as strings and not converting them into ints before adding them together. This causes the program to get incorrect results since it is just appending two strings together. 
+2) I would just use the Number() function and apply it to both inputs. See the screenshot for more details. 
